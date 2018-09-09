@@ -1,3 +1,8 @@
+/**
+ * this script can be used for test.
+ * @deprecated
+ * @see ./levels/
+ */
 import mongoose from 'mongoose';
 import cheerio from 'cheerio';
 import { get as getField } from 'lodash';
